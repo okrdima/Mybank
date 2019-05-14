@@ -1,0 +1,17 @@
+C:\Users\okrdi\source\repos\Design_form\Design_form\bin\Debug\Design_form.exe.config
+C:\Users\okrdi\source\repos\Design_form\Design_form\bin\Debug\Design_form.exe
+C:\Users\okrdi\source\repos\Design_form\Design_form\bin\Debug\Design_form.pdb
+C:\Users\okrdi\source\repos\Design_form\Design_form\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\okrdi\source\repos\Design_form\Design_form\obj\Debug\Design_form.Properties.Resources.resources
+C:\Users\okrdi\source\repos\Design_form\Design_form\obj\Debug\Design_form.csproj.GenerateResource.cache
+C:\Users\okrdi\source\repos\Design_form\Design_form\obj\Debug\Design_form.csproj.CoreCompileInputs.cache
+C:\Users\okrdi\source\repos\Design_form\Design_form\obj\Debug\Design_form.csproj.CopyComplete
+C:\Users\okrdi\source\repos\Design_form\Design_form\obj\Debug\Design_form.exe
+C:\Users\okrdi\source\repos\Design_form\Design_form\obj\Debug\Design_form.pdb
+C:\Users\okrdi\source\repos\Design_form\Design_form\obj\Debug\Design_form.Login.resources
+C:\Users\okrdi\source\repos\Design_form\Design_form\obj\Debug\Design_form.Main_Form.resources
+C:\Users\okrdi\source\repos\Design_form\Design_form\bin\Debug\MaterialSkin.dll
+C:\Users\okrdi\source\repos\Design_form\Design_form\obj\Debug\Design_form.Travel.resources
+C:\Users\okrdi\source\repos\Design_form\Design_form\obj\Debug\Design_form.csprojAssemblyReference.cache
+C:\Users\okrdi\source\repos\Design_form\Design_form\obj\Debug\Design_form.Payment.resources
+C:\Users\okrdi\source\repos\Design_form\Design_form\obj\Debug\Design_form.Finish_Operation.resources
